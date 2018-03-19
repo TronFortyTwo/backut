@@ -1,7 +1,7 @@
 [Desktop Entry]
 _Name=On The Road
 Exec=qmlscene qml/Main.qml -I qml/
-Icon=assets/ontheroad.svg
+Icon=assets/backut.jpg
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
