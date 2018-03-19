@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-21 14:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Install.qml:10 app.desktop.in.h:1
+msgid "On The Road"
+msgstr ""
+
+#: ../qml/Install.qml:53
+msgid ""
+"On The Road is a tool to easily develop applications inside "
+"Ubuntu Touch devices. It uses containers to create development "
+"environment where the hacker can act like in a standard environment. "
+"It also fully integrates with Libertine and its containers."
+"<br>THERE IS NO WARRANTY OF ANY KIND<br>Once the CLI tool is installed "
+"you can use On The Road opening the Terminal-App or any other shell and "
+"just typing 'otr' to launch the command line interface of the app. If "
+"you want to use it instead remotely (from ssh, adb, phablet-shell...) "
+"use the 'otr-adb' command instead"
+msgstr ""
+
+#: ../qml/Install.qml:58
+msgid "<b>CLI tool failed to install! See log file for details</b>"
+msgstr ""
+
+#: ../qml/Install.qml:62
+msgid "<b>CLI tool is installed</b>"
+msgstr ""
+
+#: ../qml/Install.qml:66
+msgid "<b>CLI tool is now updated</b>"
+msgstr ""
+
+#: ../qml/Install.qml:75
+msgid "Update CLI tool to latest version"
+msgstr ""
+
+#: ../qml/Install.qml:102
+msgid ""
+"Source code available on <a href='https://github.com/TronFortyTwo/OnTheRoad'>GitHub</a>"
+msgstr ""
+
+#: ../qml/Install.qml:108
+msgid ""
+"This software is licensed under the GNU GPLv3 license as published by the "
+"Free Software Foundation.<br>Copyright 2017-2018 Emanuele Sorce<br><br>There "
+"are many ways to help this app to improve and get more useful: your feedback "
+"is much appreciated, bug listing and feature requests are very important and "
+"if you like this app, consider doing a small donation to incourage and help "
+"me.<br>Contact me: (Emanuele Sorce)<br>e-mail: "
+"emanuele.sorce@hotmail.com<br>Telegram: @TronFortyTwo"
+msgstr ""
