@@ -5,14 +5,10 @@ import Ubuntu.Components 1.3
 MainView {
 	id: root
 	objectName: 'mainView'
-	applicationName: 'ontheroad.emanuelesorce'
+	applicationName: 'backut.emanuelesorce'
 	automaticOrientation: true
 	width: units.gu(50)
 	height: units.gu(75)
-
-	Install {
-		id: install
-	}
 
 	About {
 		id: about
@@ -23,6 +19,6 @@ MainView {
 	}
 
 	Component.onCompleted: {
-            pageStack.push(install)
+            pageStack.push(backup)
 	}
 }
